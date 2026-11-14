@@ -1,0 +1,471 @@
+{
+  "origin": {
+    "lat": 12.98,
+    "lon": 77.6
+  },
+  "count": 22,
+  "buildings": [
+    {
+      "id": "bld_001",
+      "name": "Building 1 (Zone_6)",
+      "zoneId": "Zone_6",
+      "position": {
+        "x": 19.54,
+        "y": 1.2,
+        "z": -50.214,
+        "lat": 12.9795484,
+        "lon": 77.6001803
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Reinforced Concrete",
+        "heightMeters": 27.0,
+        "yearBuilt": 2010
+      }
+    },
+    {
+      "id": "bld_002",
+      "name": "Building 2 (Zone_5)",
+      "zoneId": "Zone_5",
+      "position": {
+        "x": -3.449,
+        "y": 1.198,
+        "z": -31.259,
+        "lat": 12.9797189,
+        "lon": 77.5999682
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Steel Frame",
+        "heightMeters": 27.0,
+        "yearBuilt": 2011
+      }
+    },
+    {
+      "id": "bld_003",
+      "name": "Building 3 (Zone_5)",
+      "zoneId": "Zone_5",
+      "position": {
+        "x": -3.449,
+        "y": 1.198,
+        "z": -44.701,
+        "lat": 12.979598,
+        "lon": 77.5999682
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Reinforced Concrete",
+        "heightMeters": 27.0,
+        "yearBuilt": 2012
+      }
+    },
+    {
+      "id": "bld_004",
+      "name": "Building 4 (Zone_6)",
+      "zoneId": "Zone_6",
+      "position": {
+        "x": 1.74,
+        "y": 1.2,
+        "z": -22.214,
+        "lat": 12.9798002,
+        "lon": 77.6000161
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Steel Frame",
+        "heightMeters": 27.0,
+        "yearBuilt": 2013
+      }
+    },
+    {
+      "id": "bld_005",
+      "name": "Building 5 (Zone_5)",
+      "zoneId": "Zone_5",
+      "position": {
+        "x": 14.351,
+        "y": 1.198,
+        "z": -44.661,
+        "lat": 12.9795984,
+        "lon": 77.6001324
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Reinforced Concrete",
+        "heightMeters": 27.0,
+        "yearBuilt": 2014
+      }
+    },
+    {
+      "id": "bld_006",
+      "name": "Building 6 (Zone_5)",
+      "zoneId": "Zone_5",
+      "position": {
+        "x": 10.35,
+        "y": 1.168,
+        "z": -3.726,
+        "lat": 12.9799665,
+        "lon": 77.6000955
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Steel Frame",
+        "heightMeters": 26.7,
+        "yearBuilt": 2015
+      }
+    },
+    {
+      "id": "bld_007",
+      "name": "Building 7 (Zone_5)",
+      "zoneId": "Zone_5",
+      "position": {
+        "x": 10.351,
+        "y": 1.168,
+        "z": -31.259,
+        "lat": 12.9797189,
+        "lon": 77.6000955
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Reinforced Concrete",
+        "heightMeters": 26.7,
+        "yearBuilt": 2016
+      }
+    },
+    {
+      "id": "bld_008",
+      "name": "Building 8 (Zone_6)",
+      "zoneId": "Zone_6",
+      "position": {
+        "x": 15.54,
+        "y": 1.17,
+        "z": -22.214,
+        "lat": 12.9798002,
+        "lon": 77.6001434
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Steel Frame",
+        "heightMeters": 26.7,
+        "yearBuilt": 2017
+      }
+    },
+    {
+      "id": "bld_009",
+      "name": "Building 9 (Zone_6)",
+      "zoneId": "Zone_6",
+      "position": {
+        "x": 15.539,
+        "y": 1.17,
+        "z": 5.319,
+        "lat": 12.9800478,
+        "lon": 77.6001434
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Reinforced Concrete",
+        "heightMeters": 26.7,
+        "yearBuilt": 2018
+      }
+    },
+    {
+      "id": "bld_010",
+      "name": "Building 10 (Zone_6)",
+      "zoneId": "Zone_6",
+      "position": {
+        "x": 2.98,
+        "y": 1.17,
+        "z": 5.358,
+        "lat": 12.9800482,
+        "lon": 77.6000275
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Steel Frame",
+        "heightMeters": 26.7,
+        "yearBuilt": 2019
+      }
+    },
+    {
+      "id": "bld_011",
+      "name": "Building 11 (Zone_5)",
+      "zoneId": "Zone_5",
+      "position": {
+        "x": -2.209,
+        "y": 1.168,
+        "z": 10.911,
+        "lat": 12.9800981,
+        "lon": 77.5999796
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Reinforced Concrete",
+        "heightMeters": 26.7,
+        "yearBuilt": 2020
+      }
+    },
+    {
+      "id": "bld_012",
+      "name": "Building 12 (Zone_6)",
+      "zoneId": "Zone_6",
+      "position": {
+        "x": 1.74,
+        "y": 1.2,
+        "z": -50.254,
+        "lat": 12.9795481,
+        "lon": 77.6000161
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Steel Frame",
+        "heightMeters": 27.0,
+        "yearBuilt": 2021
+      }
+    },
+    {
+      "id": "bld_013",
+      "name": "Building 13 (Zone_5)",
+      "zoneId": "Zone_5",
+      "position": {
+        "x": 10.35,
+        "y": 1.168,
+        "z": 10.872,
+        "lat": 12.9800978,
+        "lon": 77.6000955
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Reinforced Concrete",
+        "heightMeters": 26.7,
+        "yearBuilt": 2022
+      }
+    },
+    {
+      "id": "bld_014",
+      "name": "Building 14 (Zone_5)",
+      "zoneId": "Zone_5",
+      "position": {
+        "x": -2.209,
+        "y": 1.168,
+        "z": -3.687,
+        "lat": 12.9799668,
+        "lon": 77.5999796
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Steel Frame",
+        "heightMeters": 26.7,
+        "yearBuilt": 2023
+      }
+    },
+    {
+      "id": "bld_015",
+      "name": "Building 15 (Zone_6)",
+      "zoneId": "Zone_6",
+      "position": {
+        "x": 32.489,
+        "y": 1.202,
+        "z": -21.955,
+        "lat": 12.9798026,
+        "lon": 77.6002998
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Reinforced Concrete",
+        "heightMeters": 27.0,
+        "yearBuilt": 2010
+      }
+    },
+    {
+      "id": "bld_016",
+      "name": "Building 16 (Zone_5)",
+      "zoneId": "Zone_5",
+      "position": {
+        "x": 10.351,
+        "y": 1.168,
+        "z": -16.661,
+        "lat": 12.9798502,
+        "lon": 77.6000955
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Steel Frame",
+        "heightMeters": 26.7,
+        "yearBuilt": 2011
+      }
+    },
+    {
+      "id": "bld_017",
+      "name": "Building 17 (Zone_5)",
+      "zoneId": "Zone_5",
+      "position": {
+        "x": -3.449,
+        "y": 1.198,
+        "z": -59.299,
+        "lat": 12.9794667,
+        "lon": 77.5999682
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Reinforced Concrete",
+        "heightMeters": 27.0,
+        "yearBuilt": 2012
+      }
+    },
+    {
+      "id": "bld_018",
+      "name": "Building 18 (Zone_5)",
+      "zoneId": "Zone_5",
+      "position": {
+        "x": 27.3,
+        "y": 1.2,
+        "z": -31.0,
+        "lat": 12.9797212,
+        "lon": 77.600252
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Steel Frame",
+        "heightMeters": 27.0,
+        "yearBuilt": 2013
+      }
+    },
+    {
+      "id": "bld_019",
+      "name": "Building 19 (Zone_5)",
+      "zoneId": "Zone_5",
+      "position": {
+        "x": 14.351,
+        "y": 1.198,
+        "z": -59.259,
+        "lat": 12.9794671,
+        "lon": 77.6001324
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Reinforced Concrete",
+        "heightMeters": 27.0,
+        "yearBuilt": 2014
+      }
+    },
+    {
+      "id": "bld_020",
+      "name": "Building 20 (Zone_6)",
+      "zoneId": "Zone_6",
+      "position": {
+        "x": 2.98,
+        "y": 1.17,
+        "z": -9.24,
+        "lat": 12.9799169,
+        "lon": 77.6000275
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Steel Frame",
+        "heightMeters": 26.7,
+        "yearBuilt": 2015
+      }
+    },
+    {
+      "id": "bld_021",
+      "name": "Building 21 (Zone_5)",
+      "zoneId": "Zone_5",
+      "position": {
+        "x": 27.3,
+        "y": 1.2,
+        "z": -16.402,
+        "lat": 12.9798525,
+        "lon": 77.600252
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Reinforced Concrete",
+        "heightMeters": 27.0,
+        "yearBuilt": 2016
+      }
+    },
+    {
+      "id": "bld_022",
+      "name": "Building 22 (Zone_5)",
+      "zoneId": "Zone_5",
+      "position": {
+        "x": -3.449,
+        "y": 1.198,
+        "z": -16.661,
+        "lat": 12.9798502,
+        "lon": 77.5999682
+      },
+      "properties": {
+        "massKg": 1000.0,
+        "stiffness": 40000.0,
+        "dampingCoefficient": 12000.0,
+        "damageThresholdG": 0.3,
+        "type": "Steel Frame",
+        "heightMeters": 27.0,
+        "yearBuilt": 2017
+      }
+    }
+  ]
+}
